@@ -2,3 +2,5 @@
 *DS_Store*
 .DS_Store/
 .venv/
+additional/
+DAC-006-Machine_Learning/datasets/*.csv

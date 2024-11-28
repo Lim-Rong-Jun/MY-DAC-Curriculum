@@ -4,3 +4,6 @@
 .venv/
 additional/
 DAC-006-Machine_Learning/datasets/*.csv
+DAC-006_Machine_Learning/datasets/*.csv
+.venv/
+DAC-007_Web_Scraping/*Master*

@@ -6,6 +6,10 @@ additional/
 DAC-006-Machine_Learning/datasets/*.csv
 DAC-006_Machine_Learning/datasets/*.csv
 .venv/
+<<<<<<< HEAD
 DAC-007_Web_Scraping/*Master*
 DAC-008_Intro_To_NLP/*Master*
 DAC-008_Intro_To_NLP/datasets/*.csv
+=======
+DAC-008_Intro_To_NLP/datasets/*.csv
+>>>>>>> b97ae67ee7925abd54e889a6ac318db7ff4dfef0
